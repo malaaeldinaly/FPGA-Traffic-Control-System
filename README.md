@@ -14,6 +14,7 @@ The traffic light controller system is designed to manage the traffic lights at 
 - **Serial Bit Sequence Detector**: A Verilog module to detect specific bit sequences, useful for input signal processing.
 
 ## Project Structure
+```
 FPGA-Traffic-Light-Controller  
 ├── include                    
 │    └── traffic_light_controller.h       # Header files  
@@ -27,6 +28,7 @@ FPGA-Traffic-Light-Controller
 │    └── Clock_Divider.v                  # Generates slower clock signals  
 ├── Makefile                             # Build automation script  
 └── README.md                            # Project documentation  
+```
 
 
 
